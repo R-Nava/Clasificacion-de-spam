@@ -8,4 +8,4 @@ La siguiente es una muestra de como se ve la base de datos:
 ![database](./Images/database.png)
 
 ## Bibliografia
-[1] F. Qureshi.”Spam Email | Kaggle Dataset of Spam Email.” Kaggle. Spam Email (kaggle.com) [Accessed Feb. 29, 2024]
+[1] F. Qureshi.”Spam Email | Kaggle Dataset of Spam Email.” Kaggle. https://www.kaggle.com/datasets/mfaisalqureshi/spam-email [Accessed Feb. 29, 2024]
